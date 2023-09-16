@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+div{
+    position:absolute;
+    top: 10%;
+    left: 50%;
+    font-size: 50px;
+    transform: translate(-50%,-50%);
+}
+h1 {
+    background-image: linear-gradient(to left, red,blue,green,orange,pink);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+   
+}
